@@ -1,0 +1,214 @@
+{
+  "photos": [
+    {
+      "albumId": 1,
+      "id": 1,
+      "title": "Foto Aleatória 1",
+      "url": "https://picsum.photos/id/1/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/1/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 2,
+      "title": "Foto Aleatória 2",
+      "url": "https://picsum.photos/id/2/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/2/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 3,
+      "title": "Foto Aleatória 3",
+      "url": "https://picsum.photos/id/3/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/3/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 4,
+      "title": "Foto Aleatória 4",
+      "url": "https://picsum.photos/id/4/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/4/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 5,
+      "title": "Foto Aleatória 5",
+      "url": "https://picsum.photos/id/5/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/5/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 6,
+      "title": "Foto Aleatória 6",
+      "url": "https://picsum.photos/id/6/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/6/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 7,
+      "title": "Foto Aleatória 7",
+      "url": "https://picsum.photos/id/7/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/7/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 8,
+      "title": "Foto Aleatória 8",
+      "url": "https://picsum.photos/id/8/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/8/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 9,
+      "title": "Foto Aleatória 9",
+      "url": "https://picsum.photos/id/9/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/9/150/150"
+    },
+    {
+      "albumId": 1,
+      "id": 10,
+      "title": "Foto Aleatória 10",
+      "url": "https://picsum.photos/id/10/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/10/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 11,
+      "title": "Foto Aleatória 11",
+      "url": "https://picsum.photos/id/11/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/11/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 12,
+      "title": "Foto Aleatória 12",
+      "url": "https://picsum.photos/id/12/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/12/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 13,
+      "title": "Foto Aleatória 13",
+      "url": "https://picsum.photos/id/13/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/13/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 14,
+      "title": "Foto Aleatória 14",
+      "url": "https://picsum.photos/id/14/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/14/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 15,
+      "title": "Foto Aleatória 15",
+      "url": "https://picsum.photos/id/15/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/15/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 16,
+      "title": "Foto Aleatória 16",
+      "url": "https://picsum.photos/id/16/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/16/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 17,
+      "title": "Foto Aleatória 17",
+      "url": "https://picsum.photos/id/17/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/17/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 18,
+      "title": "Foto Aleatória 18",
+      "url": "https://picsum.photos/id/18/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/18/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 19,
+      "title": "Foto Aleatória 19",
+      "url": "https://picsum.photos/id/19/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/19/150/150"
+    },
+    {
+      "albumId": 2,
+      "id": 20,
+      "title": "Foto Aleatória 20",
+      "url": "https://picsum.photos/id/20/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/20/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 21,
+      "title": "Foto Aleatória 21",
+      "url": "https://picsum.photos/id/21/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/21/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 22,
+      "title": "Foto Aleatória 22",
+      "url": "https://picsum.photos/id/22/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/22/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 23,
+      "title": "Foto Aleatória 23",
+      "url": "https://picsum.photos/id/23/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/23/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 24,
+      "title": "Foto Aleatória 24",
+      "url": "https://picsum.photos/id/24/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/24/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 25,
+      "title": "Foto Aleatória 25",
+      "url": "https://picsum.photos/id/25/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/25/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 26,
+      "title": "Foto Aleatória 26",
+      "url": "https://picsum.photos/id/26/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/26/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 27,
+      "title": "Foto Aleatória 27",
+      "url": "https://picsum.photos/id/27/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/27/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 28,
+      "title": "Foto Aleatória 28",
+      "url": "https://picsum.photos/id/28/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/28/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 29,
+      "title": "Foto Aleatória 29",
+      "url": "https://picsum.photos/id/29/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/29/150/150"
+    },
+    {
+      "albumId": 3,
+      "id": 30,
+      "title": "Foto Aleatória 30",
+      "url": "https://picsum.photos/id/30/600/600",
+      "thumbnailUrl": "https://picsum.photos/id/30/150/150"
+    }
+  ]
+}
